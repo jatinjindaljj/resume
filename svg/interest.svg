@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="303.277" height="443.721" viewBox="0 0 303.277 443.721">
+  <defs>
+    <filter id="Ellipse_1" x="49" y="44.345" width="184.303" height="179.994" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect width="27" height="123.268" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="27" height="25" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="interest" transform="translate(-11 -9)">
+    <path id="blank" d="M0,0H303.277V443.721H0Z" transform="translate(11 9)" fill="#fff"/>
+    <g id="intereststhead" transform="translate(6 -668)">
+      <path id="Path_12" data-name="Path 12" d="M0,0H200.684V192.339H0Z" transform="translate(45.956 699)" fill="#fff"/>
+      <g transform="matrix(1, 0, 0, 1, 5, 677)" filter="url(#Ellipse_1)">
+        <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(58 50.34)" fill="#6dfb76" stroke="#050505" stroke-width="2">
+          <ellipse cx="83.151" cy="80.997" rx="83.151" ry="80.997" stroke="none"/>
+          <ellipse cx="83.151" cy="80.997" rx="82.151" ry="79.997" fill="none"/>
+        </g>
+      </g>
+      <g id="Intersection_1" data-name="Intersection 1" transform="matrix(0.996, 0.087, -0.087, 0.996, 146.721, 764.27)" fill="#f7f743">
+        <path d="M 73.72332000732422 98.76191711425781 L 1.820219159126282 49.12982940673828 L 78.16471099853516 1.398373365402222 C 81.87494659423828 7.948427677154541 84.75952911376953 14.95830631256104 86.74466705322266 22.25116920471191 C 88.88674163818359 30.1206226348877 89.97287750244141 38.29666137695313 89.97287750244141 46.55215454101563 C 89.97287750244141 56.26647567749023 88.47708129882813 65.81890106201172 85.52703857421875 74.94409942626953 C 82.77625274658203 83.45295715332031 78.80711364746094 91.46102142333984 73.72332000732422 98.76191711425781 Z" stroke="none"/>
+        <path d="M 77.80410003662109 2.803176879882813 L 3.640434265136719 49.17115020751953 L 73.46720886230469 97.37001037597656 C 78.22476196289063 90.37200927734375 81.957763671875 82.73389434814453 84.57552337646484 74.63649749755859 C 87.49339294433594 65.61082458496094 88.97288513183594 56.16188430786133 88.97288513183594 46.55215454101563 C 88.97288513183594 38.38535308837891 87.89856719970703 30.29768371582031 85.77976989746094 22.51380920410156 C 83.90836334228516 15.63876342773438 81.22867584228516 9.017967224121094 77.80410003662109 2.803176879882813 M 78.51500701904297 0 C 86.42329406738281 13.59500885009766 90.97288513183594 29.52365112304688 90.97288513183594 46.55215454101563 C 90.97288513183594 66.61636352539063 84.65550994873047 85.15496826171875 73.97039794921875 100.1475372314453 L -7.62939453125e-06 49.08848190307617 L 78.51500701904297 0 Z" stroke="none" fill="#050505"/>
+      </g>
+      <g id="Intersection_2" data-name="Intersection 2" transform="translate(148.235 727.365) rotate(4)" fill="#bad1fb">
+        <path d="M 2.247276782989502 83.45050048828125 L 39.65275573730469 1.324040412902832 C 47.72914886474609 5.054603576660156 55.20227432250977 10.0515193939209 61.8784294128418 16.18686294555664 C 68.53157806396484 22.30108451843262 74.23592376708984 29.39997673034668 78.84506225585938 37.29958724975586 L 2.247276782989502 83.45050048828125 Z" stroke="none"/>
+        <path d="M 40.14358901977539 2.658935546875 L 4.494560241699219 80.92900085449219 L 77.47989654541016 36.95463562011719 C 73.01133728027344 29.48164749145508 67.54170227050781 22.74953460693359 61.20176696777344 16.92316436767578 C 54.85368347167969 11.08931732177734 47.77753067016602 6.297073364257813 40.14358901977539 2.658935546875 M 39.15696334838867 -7.62939453125e-06 C 56.32975006103516 7.688926696777344 70.69770050048828 20.96260833740234 80.20127868652344 37.64994430541992 L 0 85.97197723388672 L 39.15696334838867 -7.62939453125e-06 Z" stroke="none" fill="#050505"/>
+      </g>
+      <g id="Intersection_3" data-name="Intersection 3" transform="translate(138.187 721.83)" fill="#faa9a9">
+        <path d="M 4.687083721160889 87.67608642578125 L 1.040470480918884 1.17900812625885 C 3.158305406570435 1.060163140296936 5.300894260406494 1.000007510185242 7.423312664031982 1.000007510185242 C 14.80504989624023 1.000007510185242 22.16503715515137 1.721232533454895 29.29883766174316 3.143657445907593 C 35.86515426635742 4.452936172485352 42.29106140136719 6.365750312805176 48.41742324829102 8.833889007568359 L 4.687083721160889 87.67608642578125 Z" stroke="none"/>
+        <path d="M 7.423309326171875 1.999992370605469 C 5.647792816162109 1.999992370605469 3.858367919921875 2.042442321777344 2.081310272216797 2.126510620117188 L 5.536487579345703 84.08298492431641 L 46.99095916748047 9.343986511230469 C 41.24020385742188 7.099906921386719 35.23371505737305 5.346717834472656 29.10328483581543 4.124359130859375 C 22.03373718261719 2.714729309082031 14.73953628540039 1.999992370605469 7.423309326171875 1.999992370605469 M 7.423309326171875 -7.62939453125e-06 C 22.59263038635254 -7.62939453125e-06 36.97197723388672 2.989700317382813 49.83787155151367 8.3345947265625 L 3.837669372558594 91.26917266845703 L 3.814697265625e-06 0.2401275634765625 C 2.449657440185547 0.081146240234375 4.927536010742188 -7.62939453125e-06 7.423309326171875 -7.62939453125e-06 Z" stroke="none" fill="#050505"/>
+      </g>
+      <text id="Interests" transform="translate(116 716)" font-size="16" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">Interests</tspan></text>
+    </g>
+    <g id="interestsbody" transform="translate(1331 -30.317)">
+      <rect id="Rectangle_15" data-name="Rectangle 15" width="243.663" height="148.55" transform="translate(-1292 286)" fill="#fff"/>
+      <g id="Repeat_Grid_1" data-name="Repeat Grid 1" transform="translate(-1277 295)" clip-path="url(#clip-path)">
+        <g transform="translate(1266 -324)">
+          <g id="Component_2_2" data-name="Component 2 – 2" transform="translate(-1266 326)" clip-path="url(#clip-path-2)">
+            <g id="Rectangle_16" data-name="Rectangle 16" fill="#faa9a9" stroke="#161414" stroke-width="1.5">
+              <rect width="27" height="25" rx="5" stroke="none"/>
+              <rect x="0.75" y="0.75" width="25.5" height="23.5" rx="4.25" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(1266 -293)">
+          <g id="Component_2_3" data-name="Component 2 – 3" transform="translate(-1266 326)" clip-path="url(#clip-path-2)">
+            <g id="Rectangle_16-2" data-name="Rectangle 16" fill="#bad1fb" stroke="#161414" stroke-width="1.5">
+              <rect width="27" height="25" rx="5" stroke="none"/>
+              <rect x="0.75" y="0.75" width="25.5" height="23.5" rx="4.25" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(1266 -262)">
+          <g id="Component_2_4" data-name="Component 2 – 4" transform="translate(-1266 326)" clip-path="url(#clip-path-2)">
+            <g id="Rectangle_16-3" data-name="Rectangle 16" fill="#f7f743" stroke="#161414" stroke-width="1.5">
+              <rect width="27" height="25" rx="5" stroke="none"/>
+              <rect x="0.75" y="0.75" width="25.5" height="23.5" rx="4.25" fill="none"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(1266 -231)">
+          <g id="Component_2_5" data-name="Component 2 – 5" transform="translate(-1266 326)" clip-path="url(#clip-path-2)">
+            <g id="Rectangle_16-4" data-name="Rectangle 16" fill="#6dfb76" stroke="#161414" stroke-width="1.5">
+              <rect width="27" height="25" rx="5" stroke="none"/>
+              <rect x="0.75" y="0.75" width="25.5" height="23.5" rx="4.25" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="BUSINESS" transform="translate(-1234.329 313.103)" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">BUSINESS</tspan></text>
+      <text id="LATEST_TECHNOLOGY" data-name="LATEST TECHNOLOGY" transform="translate(-1234.337 343.331)" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">LATEST TECHNOLOGY</tspan></text>
+      <text id="HUMAN_PSYCHOLOGY" data-name="HUMAN PSYCHOLOGY" transform="translate(-1234.676 374.231)" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">HUMAN PSYCHOLOGY</tspan></text>
+      <text id="FINDING_CREATIVE_SOLUTIONS" data-name="FINDING CREATIVE 
+SOLUTIONS" transform="translate(-1234.62 403.388)" font-size="15" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">FINDING CREATIVE </tspan><tspan x="0" y="17">SOLUTIONS</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303.277" height="443.721" viewBox="0 0 303.277 443.721">
+  <g id="hard_skills" data-name="hard skills" transform="translate(-686 -9)">
+    <path id="blank" d="M0,0H303.277V443.721H0Z" transform="translate(686 9)" fill="#fff"/>
+    <g id="hardskillshead" transform="translate(2264 -501)">
+      <rect id="soft_skills" data-name="soft skills" width="261.458" height="166.869" transform="translate(-1557 523)" fill="#fff"/>
+      <text id="UX_DESIGNING" data-name="UX DESIGNING" transform="translate(-1524.999 613.26)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">UX DESIGNING</tspan></text>
+      <text id="UI_DESIGNING" data-name="UI DESIGNING" transform="translate(-1513.481 673.869)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">UI DESIGNING</tspan></text>
+      <text id="_Responsiveness" data-name="* Responsiveness" transform="translate(-1466.973 634.787)" font-size="18" font-family="Rockwell"><tspan x="0" y="0">* Responsiveness</tspan></text>
+      <text id="HARD_SKILLS-2" data-name="HARD SKILLS" transform="translate(-1487.113 547)" font-size="20" font-family="Rockwell"><tspan x="0" y="0">HARD SKILLS</tspan></text>
+      <text id="WEB_DESIGNING" data-name="WEB DESIGNING" transform="translate(-1531 581.943)" font-size="24" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">WEB DESIGNING</tspan></text>
+      <line id="Line_9" data-name="Line 9" x2="137" transform="translate(-1495.5 552.5)" fill="none" stroke="#131010" stroke-width="2"/>
+    </g>
+    <g id="hardskillsbody" transform="translate(1930 -615)">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="233" height="161.869" transform="translate(-1207 846)" fill="#fff"/>
+      <text id="PROGRAMMING" transform="translate(-1172 872)" font-size="19" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">PROGRAMMING</tspan></text>
+      <text id="C_" data-name="C++" transform="translate(-1189 904.821)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">C++</tspan></text>
+      <text id="JAVA" transform="translate(-1121 897.618)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">JAVA</tspan></text>
+      <text id="PYTHON" transform="translate(-1060 905.622)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">PYTHON</tspan></text>
+      <text id="JAVASCRIPT" transform="translate(-1203 976.016)" font-size="14" font-family="Rockwell"><tspan x="0" y="0">JAVASCRIPT</tspan></text>
+      <text id="WEB_DEVELOPMENT" data-name="WEB DEVELOPMENT" transform="translate(-1194 939.404)" font-size="18" font-family="Rockwell-Bold, Rockwell" font-weight="700"><tspan x="0" y="0">WEB DEVELOPMENT</tspan></text>
+      <text id="NODE" transform="translate(-1154 991.869)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">NODE</tspan></text>
+      <text id="HTML" transform="translate(-1113 968.051)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">HTML</tspan></text>
+      <text id="CSS" transform="translate(-1093 992.869)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">CSS</tspan></text>
+      <text id="Angularjs" transform="translate(-1060 977.644)" font-size="19" font-family="Rockwell"><tspan x="0" y="0">Angularjs</tspan></text>
+      <path id="Path_13" data-name="Path 13" d="M194,0" transform="translate(-1193.5 942.876)" fill="none" stroke="#121111" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

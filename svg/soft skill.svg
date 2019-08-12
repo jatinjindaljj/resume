@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="303.277" height="443.721" viewBox="0 0 303.277 443.721">
+  <g id="soft_skill" data-name="soft skill" transform="translate(-337 -9)">
+    <path id="blank" d="M0,0H303.277V443.721H0Z" transform="translate(337 9)" fill="#fff"/>
+    <g id="softskillhead" transform="translate(1918 -486)">
+      <rect id="soft_skills" data-name="soft skills" width="254.431" height="172.71" transform="translate(-1557 523)" fill="#fff"/>
+      <text id="Soft_Skills-2" data-name="Soft Skills" transform="translate(-1477.784 544)" font-size="20" font-family="Rockwell"><tspan x="0" y="0">Soft Skills</tspan></text>
+      <text id="Empathy" transform="translate(-1462.838 580.936)" font-size="16" font-family="Rockwell"><tspan x="0" y="0">Empathy</tspan></text>
+      <text id="Good_listener" data-name="Good listener" transform="translate(-1484.999 624.792)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">Good listener</tspan></text>
+      <text id="Excellent_story_teller" data-name="Excellent story teller" transform="translate(-1498.569 667.71)" font-size="17" font-family="Rockwell"><tspan x="0" y="0">Excellent story teller</tspan></text>
+      <line id="Line_1" data-name="Line 1" x2="96" transform="translate(-1478.35 550.5)" fill="none" stroke="#1a1515" stroke-width="2"/>
+    </g>
+    <g id="softskillbody" transform="translate(1649 -288)">
+      <rect id="Rectangle_19" data-name="Rectangle 19" width="242.837" height="172.71" transform="translate(-1282 519)" fill="#fff"/>
+      <text id="PROBLEM_SOLVING" data-name="PROBLEM SOLVING" transform="translate(-1244.186 540)" font-size="15" font-family="Rockwell"><tspan x="0" y="0">PROBLEM SOLVING</tspan></text>
+      <text id="Analytics" transform="translate(-1278 606.518)" font-size="20" font-family="Rockwell"><tspan x="0" y="0">Analytics</tspan></text>
+      <text id="Creative" transform="translate(-1212.896 641.285)" font-size="20" font-family="Rockwell"><tspan x="0" y="0">Creative</tspan></text>
+      <text id="Team_Working" data-name="Team Working" transform="translate(-1174.163 673.71)" font-size="19" font-family="Rockwell"><tspan x="0" y="0">Team Working</tspan></text>
+      <line id="Line_2" data-name="Line 2" x1="47" y2="38" transform="translate(-1227.116 554.782)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="9" y2="73.128" transform="translate(-1179.34 554.5)" fill="none" stroke="#707070" stroke-width="1"/>
+      <line id="Line_4" data-name="Line 4" x1="73" y1="101.171" transform="translate(-1178.481 554.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
